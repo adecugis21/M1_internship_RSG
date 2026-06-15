@@ -1,5 +1,5 @@
-**M1 Internship Code Repository
-**
+**M1 Internship Code Repository**
+
 Deciphering the Sequence-Encoded Grammar of Chromatin Organization with Cross-Species Multi-Modal Deep Learning
 
 Author: Alice DECUGIS
@@ -29,7 +29,7 @@ The project explores the use of deep learning architectures to decode chromatin 
 ├── Figures/
 │   ├── dataset_specific/
 │   ├── model_outputs/
-│   └── README.md            # (optional) Overview of each figure
+│   └── README.md              # (optional) Overview of each figure
 │
 ├── Running_model_scripts/
 │   ├── data_preprocessing.py
@@ -37,6 +37,7 @@ The project explores the use of deep learning architectures to decode chromatin 
 │   ├── evaluation_metrics.py
 │   └── utils/
 │
-├── momics_fresh.yml         # Micromamba environment specification
+├── momics_fresh.yml           # Micromamba environment specification
 │
-├── README.md                # You are here
+└── README.md                  # You are here
+
