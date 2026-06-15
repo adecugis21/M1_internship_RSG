@@ -25,6 +25,7 @@ It contains the code, scripts, and environment files used for model training, da
 The project explores the use of deep learning architectures to decode chromatin structural features encoded in DNA sequences, integrating cross-species genomic and epigenomic data.
 
 **Repository structure**
+```
 .
 ├── Figures/
 │   ├── dataset_specific/
@@ -41,3 +42,4 @@ The project explores the use of deep learning architectures to decode chromatin 
 │
 └── README.md                  # You are here
 
+```
